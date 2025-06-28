@@ -2,7 +2,6 @@
 
 **Author:** Sanya Sinha  
 **Internship Organization:** CodeAlpha
-**Internship Duration:** June 2024 - July 2024
 
 Welcome to the repository showcasing the projects I developed during my internship at **CodeAlpha**. 
 This repository is structured into three subfolders, each representing a completed task focused on network security, cybersecurity awareness, and secure software development.
