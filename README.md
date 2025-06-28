@@ -10,9 +10,9 @@ This repository is structured into three subfolders, each representing a complet
 ## 📁 Project Structure
 
 Each subfolder contains source code, documentation, or presentation material relevant to the individual tasks.
--- Task1_Basic_Network_Sniffer/
--- Task2_Phishing_Awareness_Module/
--- Task3_Secure_Coding_Review/
+- Task1_Basic_Network_Sniffer/
+- Task2_Phishing_Awareness_Module/
+- Task3_Secure_Coding_Review/
 
 ## 📁 Tasks Overview
 
